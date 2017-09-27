@@ -1,0 +1,8 @@
+---
+applications:
+- name: LDAPWeb
+  memory: 512M
+  host: LDAPWeb
+  domain: apps.eu01.cf.canopy-cloud.com
+  services:
+  - uisa_ldap
